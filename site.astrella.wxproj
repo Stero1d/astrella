@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<winginx>
+  <project>
+    <name>site.astrella</name>
+    <url>http://site.astrella/</url>
+    <root>home/site.astrella</root>
+  </project>
+</winginx>
